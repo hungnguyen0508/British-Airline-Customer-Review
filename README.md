@@ -10,10 +10,6 @@ This repository contains the analysis of customer feedback for British Airways, 
 2. [Methods and Tools](#methods-and-tools)
 3. [Key Features](#key-features)
 4. [Findings and Insights](#findings-and-insights)
-5. [Usage](#usage)
-6. [Requirements](#requirements)
-7. [License](#license)
-
 ---
 
 ## Project Overview
